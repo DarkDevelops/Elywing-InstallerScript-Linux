@@ -5,6 +5,6 @@
 ***WE HAVE ONLY TESTED THIS ON*** *Ubuntu 16*!
 
 # Contact
-***Twitter:*** *[zCode2019](twitter.com/zCode2019)*
+***Twitter:*** *[zCode2019](https://twitter.com/zCode2019)*
 
 ***Github:*** *[KPMP](https://github.com/KryptoniteMP-Team)*
